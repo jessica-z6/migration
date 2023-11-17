@@ -7,8 +7,9 @@
 
 ![2](https://github.com/jessica-z6/migration/assets/145166338/24cea3a4-0dc6-4278-91ed-5fa917b03928)
 
-![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_24](https://github.com/jessica-z6/migration/assets/145166338/e6940e1c-4a3e-4637-b852-901a5c2bcbdb)
-
-
 final
 https://youtu.be/IpvzyLomVNQ
+![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_24](https://github.com/jessica-z6/migration/assets/145166338/e6940e1c-4a3e-4637-b852-901a5c2bcbdb)
+![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_27](https://github.com/jessica-z6/migration/assets/145166338/104b2920-894c-4435-9533-c74e2ed44c87)
+
+

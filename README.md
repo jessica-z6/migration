@@ -10,7 +10,7 @@
 final video
 
 https://youtu.be/IpvzyLomVNQ
-![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_24](https://github.com/jessica-z6/migration/assets/145166338/e6940e1c-4a3e-4637-b852-901a5c2bcbdb)
-![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_27](https://github.com/jessica-z6/migration/assets/145166338/104b2920-894c-4435-9533-c74e2ed44c87)
+![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_27](https://github.com/jessica-z6/migration/assets/145166338/5a82c664-a320-4472-a76c-ecbbfe5d3e0c)
+![Administrator_ migration - Obstacles - Windows, Mac, Linux - Unity 2022 3 10f1 _DX11_ 2023_11_16 22_04_24](https://github.com/jessica-z6/migration/assets/145166338/1988f629-f513-468f-98df-54d6201ff0b7)
 
 
